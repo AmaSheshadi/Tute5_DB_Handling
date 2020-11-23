@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DBHandlingTute</string>
+    <string name="txtUname">User Name:</string>
+    <string name="txtPword">Password:</string>
+    <string name="btn1">Select All</string>
+    <string name="btn2">Add</string>
+    <string name="btn3">Delete</string>
+    <string name="btn4">Sign In</string>
+    <string name="btn5">Update</string>
+</resources>
